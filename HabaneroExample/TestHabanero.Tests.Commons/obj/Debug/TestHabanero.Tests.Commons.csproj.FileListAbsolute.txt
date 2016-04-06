@@ -1,0 +1,356 @@
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\ApplicationInsights.config
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\roslyn\csc.exe
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\roslyn\vbc.exe
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Tests.Commons.dll.config
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Tests.Commons.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Tests.Commons.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Habanero.Base.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Habanero.BO.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Habanero.Console.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Habanero.DB.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Habanero.Testability.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Habanero.Testability.Helpers.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Habanero.Testability.Testers.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\NSubstitute.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\nunit.framework.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.RandomGenerators.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.TestUtils.Generic.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.Utils.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.BO.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Habanero.Smooth.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.Optimization.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.Mvc.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Owin.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Migrations.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\TestHabenaro.Db.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Castle.Windsor.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\EntityFramework.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.FluentMigrator.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Castle.Core.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.Razor.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.BO.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\NSubstitute.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\nunit.framework.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.Optimization.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.Mvc.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Migrations.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\TestHabenaro.Db.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Castle.Windsor.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\EntityFramework.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.Runner.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\Castle.Core.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.Razor.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\obj\Debug\TestHabanero.Tests.Commons.csprojResolveAssemblyReference.cache
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\obj\Debug\TestHabanero.Tests.Commons.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\obj\Debug\TestHabanero.Tests.Commons.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.Net4.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.Helpers.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabanero.Tests.Commons\bin\Debug\System.Web.Helpers.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\ApplicationInsights.config
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.Net4.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\csc.exe
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\vbc.exe
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Tests.Commons.dll.config
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Tests.Commons.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Tests.Commons.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Base.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.BO.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Console.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.DB.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Testability.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Testability.Helpers.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Testability.Testers.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\NSubstitute.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\nunit.framework.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.FluentMigrator.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.RandomGenerators.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.TestUtils.Generic.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.Utils.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Helpers.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Mvc.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Razor.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.BO.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Migrations.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabenaro.Db.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Smooth.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Optimization.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Owin.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Castle.Windsor.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\EntityFramework.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Castle.Core.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.BO.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Migrations.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabenaro.Db.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\NSubstitute.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\nunit.framework.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Helpers.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Mvc.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Razor.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.Runner.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Optimization.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Castle.Windsor.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\EntityFramework.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Castle.Core.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\obj\Debug\TestHabanero.Tests.Commons.csprojResolveAssemblyReference.cache
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\obj\Debug\TestHabanero.Tests.Commons.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabanero.Tests.Commons\obj\Debug\TestHabanero.Tests.Commons.pdb
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\ApplicationInsights.config
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\csc.exe
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\vbc.exe
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.Net4.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Tests.Commons.dll.config
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Tests.Commons.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Tests.Commons.pdb
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Base.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.BO.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Console.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.DB.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Testability.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Testability.Helpers.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Testability.Testers.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\NSubstitute.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\nunit.framework.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.FluentMigrator.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.RandomGenerators.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.TestUtils.Generic.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.Utils.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Helpers.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Mvc.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Razor.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.BO.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Migrations.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabenaro.Db.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Smooth.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.Runner.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Optimization.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Owin.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Castle.Windsor.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\EntityFramework.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Castle.Core.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.BO.pdb
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Migrations.pdb
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.pdb
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabenaro.Db.pdb
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.pdb
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.Net4.pdb
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.pdb
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\NSubstitute.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\nunit.framework.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Helpers.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Mvc.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Razor.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.Runner.pdb
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Optimization.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Castle.Windsor.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\EntityFramework.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Castle.Core.xml
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\obj\Debug\TestHabanero.Tests.Commons.csprojResolveAssemblyReference.cache
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\obj\Debug\TestHabanero.Tests.Commons.dll
+C:\Systems\Habanero Example v1\HabaneroExample\TestHabanero.Tests.Commons\obj\Debug\TestHabanero.Tests.Commons.pdb
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.Net4.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\ApplicationInsights.config
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\csc.exe
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\System.Collections.Immutable.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\System.Reflection.Metadata.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\vbc.exe
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\VBCSCompiler.exe
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\roslyn\VBCSCompiler.exe.config
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Tests.Commons.dll.config
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Tests.Commons.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Tests.Commons.pdb
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Base.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.BO.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Console.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.DB.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Testability.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Testability.Helpers.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Testability.Testers.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\NSubstitute.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\nunit.framework.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.FluentMigrator.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.RandomGenerators.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.TestUtils.Generic.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\PeanutButter.Utils.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Helpers.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Mvc.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Razor.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Razor.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.BO.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Migrations.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabenaro.Db.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Habanero.Smooth.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.Runner.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Optimization.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Owin.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Castle.Windsor.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\EntityFramework.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Castle.Core.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.BO.pdb
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.Migrations.pdb
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabanero.pdb
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\TestHabenaro.Db.pdb
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.pdb
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\AutoMapper.Net4.pdb
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.pdb
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\NSubstitute.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\nunit.framework.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Helpers.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Mvc.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Razor.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.WebPages.Razor.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\FluentMigrator.Runner.pdb
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\System.Web.Optimization.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Castle.Windsor.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\EntityFramework.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\bin\Debug\Castle.Core.xml
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\obj\Debug\TestHabanero.Tests.Commons.csprojResolveAssemblyReference.cache
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\obj\Debug\TestHabanero.Tests.Commons.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabanero.Tests.Commons\obj\Debug\TestHabanero.Tests.Commons.pdb

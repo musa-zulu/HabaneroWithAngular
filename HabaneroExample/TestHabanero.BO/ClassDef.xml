@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<classes>
+  <class name="Car" assembly="TestHabanero.BO">
+    <property name="CarId" type="Guid" />
+    <property name="Make" />
+    <property name="Model" />
+    <primaryKey>
+      <prop name="CarId" />
+    </primaryKey>  
+    <foreignKey>
+      <prop name="PartId" />
+    </foreignKey>
+  </class> 
+  
+  <class name="Part" assembly="TestHabanero.BO">
+    <property name="PartId" type="Guid" />
+    <property name="Name" />
+    <property name="Description" />
+    <primaryKey>
+      <prop name="PartId" />
+    </primaryKey> 
+   
+  </class>  
+</classes>
+

@@ -1,0 +1,36 @@
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabenaro.Db\bin\Debug\TestHabenaro.Db.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabenaro.Db\bin\Debug\TestHabenaro.Db.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabenaro.Db\bin\Debug\Habanero.Base.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabenaro.Db\bin\Debug\Habanero.BO.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabenaro.Db\bin\Debug\Habanero.Console.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabenaro.Db\bin\Debug\Habanero.DB.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabenaro.Db\bin\Debug\TestHabanero.BO.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabenaro.Db\bin\Debug\Habanero.Smooth.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabenaro.Db\bin\Debug\TestHabanero.BO.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabenaro.Db\obj\Debug\TestHabenaro.DB.csprojResolveAssemblyReference.cache
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabenaro.Db\obj\Debug\TestHabenaro.Db.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\TestHabenaro.Db\obj\Debug\TestHabenaro.Db.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabenaro.Db\bin\Debug\TestHabenaro.Db.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabenaro.Db\bin\Debug\TestHabenaro.Db.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabenaro.Db\bin\Debug\Habanero.Base.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabenaro.Db\bin\Debug\Habanero.BO.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabenaro.Db\bin\Debug\Habanero.Console.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabenaro.Db\bin\Debug\Habanero.DB.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabenaro.Db\bin\Debug\TestHabanero.BO.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabenaro.Db\bin\Debug\Habanero.Smooth.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabenaro.Db\bin\Debug\TestHabanero.BO.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabenaro.Db\obj\Debug\TestHabenaro.DB.csprojResolveAssemblyReference.cache
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabenaro.Db\obj\Debug\TestHabenaro.Db.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\HabaneroExample\TestHabenaro.Db\obj\Debug\TestHabenaro.Db.pdb
+G:\Playground\Habanero-v1\HabaneroExample\TestHabenaro.Db\bin\Debug\TestHabenaro.Db.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabenaro.Db\bin\Debug\TestHabenaro.Db.pdb
+G:\Playground\Habanero-v1\HabaneroExample\TestHabenaro.Db\bin\Debug\Habanero.Base.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabenaro.Db\bin\Debug\Habanero.BO.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabenaro.Db\bin\Debug\Habanero.Console.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabenaro.Db\bin\Debug\Habanero.DB.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabenaro.Db\bin\Debug\TestHabanero.BO.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabenaro.Db\bin\Debug\Habanero.Smooth.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabenaro.Db\bin\Debug\TestHabanero.BO.pdb
+G:\Playground\Habanero-v1\HabaneroExample\TestHabenaro.Db\obj\Debug\TestHabenaro.DB.csprojResolveAssemblyReference.cache
+G:\Playground\Habanero-v1\HabaneroExample\TestHabenaro.Db\obj\Debug\TestHabenaro.Db.dll
+G:\Playground\Habanero-v1\HabaneroExample\TestHabenaro.Db\obj\Debug\TestHabenaro.Db.pdb

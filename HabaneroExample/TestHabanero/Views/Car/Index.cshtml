@@ -1,0 +1,115 @@
+﻿@model IEnumerable<TestHabanero.Models.CarViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2></h2>
+
+
+
+
+<div ng-controller="carController">
+    <div class="divList">
+        <p><b><i>Cars</i></b></p>
+        <table class="table table-hover">
+            <tr>
+                <td><b>Model</b></td>
+                <td><b>Make</b></td>
+            </tr>
+            <tr ng-repeat="car in cars">
+                <td>
+                    {{car.Model}}
+                </td>
+                <td>
+                    {{car.Make}}
+                </td>
+                @*<td>
+                    <span ng-click="editBook(book)" class="btn btn-primary">Edit</span>
+                    <span ng-click="deleteBook(book)" class="btn btn-danger">Delete</span>
+                </td>*@
+            </tr>
+        </table>
+    </div>
+   <span ng-click="AddCarDiv()" class="btn btn-default">
+        Add Car
+    </span>
+    <div ng-show="divCar">
+        <p class="divHead"></p>
+        <table class="table">
+            <tr>
+                <td><b><i>{{Action}} Car</i></b></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><b>Id</b></td>
+                <td>
+                    <input type="text" disabled="disabled" ng-model="carId" />
+                </td>
+
+                <td><b></b></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><b>Make</b></td>
+                <td>
+                    <input type="text" ng-model="carMake"/>
+                </td>
+
+                <td><b>Model</b></td>
+                <td>
+                    <input type="text" ng-model="carModel" />
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>
+                    <input type="button" class="btn btn-default" value="Save" ng-click="AddUpdateCar()" />
+                    <input type="button" class="btn btn-danger" value="Cancel" ng-click="Cancel()" />
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+
+@*
+        <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CarId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Make)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>
+
+        </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Make)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.CarId}) |
+
+                @Html.ActionLink("Delete", "Delete", new { id=item.CarId })
+            </td>
+        </tr>
+    }
+
+    </table>*@

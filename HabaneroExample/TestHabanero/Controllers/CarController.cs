@@ -37,7 +37,22 @@ namespace TestHabanero.Controllers
             }
             return new JsonResult { Data = viewModel, JsonRequestBehavior = JsonRequestBehavior.AllowGet };
         }
-        
+
+        // Add Car
+        public string AddCar(Car car)
+        {
+            if (car != null)
+            {
+                _carRepository.Save(car);
+                return "Car record added successfully";
+            }
+            else
+            {
+                return "Invalid car record";
+            }
+        }
+
+
         /*
         public ActionResult Create()
         {

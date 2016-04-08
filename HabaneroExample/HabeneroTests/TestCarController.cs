@@ -110,30 +110,30 @@ namespace TestHabenero.Tests
         //    Assert.IsNotNull(result);
         //}
 
-        [Test]
-        public void Index_GivenAllUsersReturnedFromRepository_ShouldReturnViewModel()
-        {
-            //---------------Set up test pack-------------------
-            var car = new CarBuilder().WithNewId().Build();         
-            var cars = new List<Car> { car };
-            var repository = Substitute.For<ICarRepository>();
-            var mappingEngine = ResolveMapper();
-            repository.GetCars().Returns(cars);
-            var carController = CreateBuilder()
-                .WithCarRepository(repository)
-                .WithMappingEngine(mappingEngine)
-                .Build();
-            //---------------Assert Precondition----------------
-            //---------------Execute Test ----------------------
-            var result = carController.Index() as JsonResult;
-            //---------------Test Result -----------------------
-            Assert.IsNotNull(result);
-            var model = result.Data as List<CarViewModel>;
-            Assert.IsInstanceOf<List<CarViewModel>>(model);
-            Assert.AreEqual(car.CarId, model.FirstOrDefault().CarId);
-            Assert.AreEqual(car.Model, model.FirstOrDefault().Model);
-            Assert.AreEqual(car.Make, model.FirstOrDefault().Make);
-        }
+        //[Test]
+        //public void Index_GivenAllUsersReturnedFromRepository_ShouldReturnViewModel()
+        //{
+        //    //---------------Set up test pack-------------------
+        //    var car = new CarBuilder().WithNewId().Build();         
+        //    var cars = new List<Car> { car };
+        //    var repository = Substitute.For<ICarRepository>();
+        //    var mappingEngine = ResolveMapper();
+        //    repository.GetCars().Returns(cars);
+        //    var carController = CreateBuilder()
+        //        .WithCarRepository(repository)
+        //        .WithMappingEngine(mappingEngine)
+        //        .Build();
+        //    //---------------Assert Precondition----------------
+        //    //---------------Execute Test ----------------------
+        //    var result = carController.Index() as JsonResult;
+        //    //---------------Test Result -----------------------
+        //    Assert.IsNotNull(result);
+        //    var model = result.Data as List<CarViewModel>;
+        //    Assert.IsInstanceOf<List<CarViewModel>>(model);
+        //    Assert.AreEqual(car.CarId, model.FirstOrDefault().CarId);
+        //    Assert.AreEqual(car.Model, model.FirstOrDefault().Model);
+        //    Assert.AreEqual(car.Make, model.FirstOrDefault().Make);
+        //}
 
         [Test]
         public void Index_ShouldCallMappingEngine()
